@@ -1,0 +1,61 @@
+.statusbar-overlay {
+  background: #303539; }
+
+.color-white {
+  color: #ffffff; }
+
+.navbar {
+  background: #303539;
+  color: white; }
+  .navbar .center {
+    font-weight: 200 !important; }
+
+.panel {
+  background: #303539; }
+  .panel .list-block ul li {
+    background: #303539; }
+    .panel .list-block ul li a {
+      color: #d2d6da; }
+
+.content-data iframe,
+.content-data img {
+  width: 100%;
+  height: auto; }
+
+.infinite-scroll-preloader {
+  margin-top: -20px;
+  margin-bottom: 10px;
+  text-align: center; }
+  .infinite-scroll-preloader .preloader {
+    width: 34px;
+    height: 34px; }
+
+.demo-card-header-pic .card-header {
+  height: 40vw;
+  background-size: cover;
+  background-position: center; }
+
+.page-content .content-block-thumbnail img {
+  width: 100%;
+  height: auto; }
+
+.page-content .list-block ul {
+  background: transparent; }
+  .page-content .list-block ul .card {
+    margin: 20px 10px; }
+    .page-content .list-block ul .card .card-title {
+      color: #303539;
+      font-size: 1.6em; }
+    .page-content .list-block ul .card .card-footer {
+      background: #4bb047; }
+      .page-content .list-block ul .card .card-footer a {
+        color: white; }
+
+.view-main .inner-page {
+  padding-top: 0;
+  background: #fff; }
+
+.view-main .toolbar {
+  background: #4bb047; }
+  .view-main .toolbar a, .view-main .toolbar i {
+    color: white; }

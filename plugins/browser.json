@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.givemejobtoday.com.android_app"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.givemejobtoday.com.android_app"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.givemejobtoday.com.android_app"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.givemejobtoday.com.android_app"
+        }
+    },
+    "dependent_plugins": {}
+}
